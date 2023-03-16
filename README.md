@@ -1,2 +1,2 @@
-# Nauka
-Repozytorium przeznaczone do nauki i notatek.
+# Learning
+A repository designed for learning and note-taking.
