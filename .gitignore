@@ -131,3 +131,7 @@ dmypy.json
 
 # Additional
 *.DS_Store
+
+# Credits to David Foster, full repository at https://github.com/davidADSP/GDL_code.git
+Deep_learning_and_generative_modeling/models/*
+Deep_learning_and_generative_modeling/utils/*
